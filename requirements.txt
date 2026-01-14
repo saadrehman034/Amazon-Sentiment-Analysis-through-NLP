@@ -1,8 +1,7 @@
-streamlit==1.27.0          # for the web app interface
-torch==2.1.0               # PyTorch for the model
-transformers==4.42.0       # HuggingFace Transformers
-datasets==2.14.0           # HuggingFace Datasets (if used)
-nltk==3.8.1                # For sentence tokenization
-pandas==2.1.0              # For data handling (optional if you handle CSVs)
-numpy==1.26.0              # Dependency for PyTorch / pandas
 pip>=25.0
+streamlit==1.27.0
+torch==2.1.0
+numpy
+pandas
+scikit-learn
+nltk
