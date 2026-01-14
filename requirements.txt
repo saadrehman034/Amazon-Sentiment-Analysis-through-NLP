@@ -5,3 +5,4 @@ datasets==2.14.0           # HuggingFace Datasets (if used)
 nltk==3.8.1                # For sentence tokenization
 pandas==2.1.0              # For data handling (optional if you handle CSVs)
 numpy==1.26.0              # Dependency for PyTorch / pandas
+pip>=25.0
